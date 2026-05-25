@@ -3,3 +3,5 @@ My idea: A small gadget that sits on your desk that has a screen that displays u
 I wanted to try and build something like this because I often put my phone away while working to avoid getting distracted. This means that I cant quickly check the time at a glance and cant use my phone for timers and alarms as easily. Plus, I can make the gadget have a cool theme to add a little colour and character to my computer setup.
 
 This project would involve a microcontroller, a screen and some sort of inputs to give the user controls over the different functions. This actually started a copy of a previous project I created which ended up failing as a result of poor planning and goals on my part. The function of the original version was to simply display images of cartoon character with buttons to allow you to switch between different characters and variations of their faces. I quickly realised that this provided almost no benefit whatsoever and I wasnt actually a fan of how large it became.
+
+![Front of V1](
