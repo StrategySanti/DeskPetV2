@@ -1,1 +1,1 @@
-a
+This project is a fork of a previous version I created which ended up failing as a result of poor planning and goals on my part. The function of the original version was to simply display images of characters from Hello Kitty with buttons to allow you to switch between different characters and variations of their faces. The idea for the project is to create a cool little gadget that provides very simple functions like the time and temperature while having a cool theme.
