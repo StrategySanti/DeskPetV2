@@ -4,7 +4,7 @@ I wanted to try and build something like this because I often put my phone away 
 
 This project would involve a microcontroller, a screen and some sort of inputs to give the user controls over the different functions. This actually started a copy of a previous project I created which ended up failing as a result of poor planning and goals on my part. The function of the original version was to simply display images of cartoon character with buttons to allow you to switch between different characters and variations of their faces. I quickly realised that this provided almost no benefit whatsoever and I wasnt actually a fan of how large it became.
 
-![Front of V1](docs/Images/IMG_4612.png)
+![Front of V1](Images/IMG_4612.png)
 
 For the inputs, my requirements are:
 
