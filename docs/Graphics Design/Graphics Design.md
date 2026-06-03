@@ -19,7 +19,7 @@ I am using an ESP32 with a 1.5" OLED screen with a CH1117 driver. I chose to use
 
 
 
-(screenshot of GIMP)
+![Screenshot of GIMP](Images/GIMP.png)
 
 (Screenshot of imagetocpp.com)
 
