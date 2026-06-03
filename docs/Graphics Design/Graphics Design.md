@@ -8,20 +8,21 @@ One of the main goals for the desk pet is to stick to the theme of Fallout by cr
 
 I am using an ESP32 with a 1.5" OLED screen with a CH1117 driver. I chose to use the u8g2 library because it is the library I am most familiar with and I found it to be the most versatile library out of all the options. To design the graphics for my 1.5" OLED screen, there are many methods, however the one I chose in the previous version of this project was this:
 
-
-
 * Design the graphics using GIMP on a 128x64 pixel canvas
 * Export the graphic as a PNG
-* Import the graphic into ImageToCPP.com
+* Import the graphic into Image2cpp
 * Select settings which match the screen, driver and graphics library
 * Export the Bitmap code and bring it into Arduino IDE
 * Use u8g2.drawXBMP() to display the bitmap
+  
+Screenshot of GIMP:
+![Screenshot of GIMP](../Images/GIMP.png)
 
+Screenshot of Image2cpp
 
+![Screenshot of image2cpp](../Images/Image2cpp.png) 
 
-![Screenshot of GIMP](Images/GIMP.png)
-
-(Screenshot of imagetocpp.com)
+This tool can be found at:   https://javl.github.io/image2cpp/
 
 (Screenshot of bitmap code)
 
